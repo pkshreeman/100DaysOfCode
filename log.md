@@ -67,3 +67,9 @@ Binding 'this' to canvas.  Found out that I can't use 'this' inside a const outs
 
 #### Day 18: June 15, 2017
 Testing the limits of what is passable to props in React.  Created customized React for testing in stackoverflow: <https://codepen.io/pkshreeman/pen/GENmaG?editors=0010>
+
+#### Day 19: June 16, 2017
+After having trouble debugging the React app in Simon refractor project, I decided to go ahead and create create-react-app locally, and try to run it from there.
+
+#### Day 20: June 17, 2017
+Successfully fixed the persistent bug.  Forgot to include 'return' in the function.  You'd think I'd know better...Now I have a functional prop-non-logical simon operational.  Time to incorporate the states.  Did not want to add logic until after the state is installed.
