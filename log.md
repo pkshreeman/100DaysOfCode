@@ -73,3 +73,6 @@ After having trouble debugging the React app in Simon refractor project, I decid
 
 #### Day 20: June 17, 2017
 Successfully fixed the persistent bug.  Forgot to include 'return' in the function.  You'd think I'd know better...Now I have a functional prop-non-logical simon operational.  Time to incorporate the states.  Did not want to add logic until after the state is installed.
+
+#### Day 21: June 18, 2017
+Slow but steady progress with logic setup in Simon game.  Losing motivation for some reason.  
