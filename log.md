@@ -79,3 +79,6 @@ Slow but steady progress with logic setup in Simon game.  Losing motivation for 
 
 #### DAY 22: June 19, 2017 Monday
 Still slow progress with logic.  Managed to do cool things with calling 'this' via functions.  Learned I can call function inside setState due to its async nature.
+
+#### Day 23:  June 20, 2017 Tuesday
+Async operations of setState is causing major headaches in logic functions.
