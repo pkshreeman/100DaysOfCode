@@ -82,3 +82,9 @@ Still slow progress with logic.  Managed to do cool things with calling 'this' v
 
 #### Day 23:  June 20, 2017 Tuesday
 Async operations of setState is causing major headaches in logic functions.
+
+#### Day 24: June 21, 2017 Wednesday
+Was unable to make the demo (showing the sequence) to work correctly due to async calling of canvas (or is it necessary to clear the canvas? )
+
+#### Day 25: June 22, 2017 Thursday
+Insight:  SetTimeOut != SetInteval because SetTimeOuts does not prevent overlapping of async operations.
