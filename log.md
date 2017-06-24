@@ -88,3 +88,7 @@ Was unable to make the demo (showing the sequence) to work correctly due to asyn
 
 #### Day 25: June 22, 2017 Thursday
 Insight:  SetTimeOut != SetInteval because SetTimeOuts does not prevent overlapping of async operations.
+
+####Day 26: June 23, 2017 Friday
+shreeman-simon.surge.sh
+Let's see if I finally can deploy a completed React based Simon Game.
