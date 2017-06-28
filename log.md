@@ -94,4 +94,13 @@ shreeman-simon.surge.sh
 Let's see if I finally can deploy a completed React based Simon Game.
 
 #### Day 27: June 24, 2017 Saturday
-Unhappy to find out that Simon Game is not being correctly emulated on mobile phone. >:( 
+Unhappy to find out that Simon Game is not being correctly emulated on mobile phone. >:(
+
+#### Day 28: June 25, 2017 Sunday
+Lot of reading and research.  Django with Python, Xcode tutorials, research local storage procedures for next project.
+
+#### Day 29: June 26, 2017 Monday
+Django...
+
+#### Day 30: June 27, 2017 Tuesday
+Lot of figuring out about using python 2.7, 3.6 in what kind of env.  Virtualenv configurations, vagrant configurations, mysql setup in vagrant, and running basic test website in django via vagrant porting.
