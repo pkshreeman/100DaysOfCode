@@ -104,3 +104,9 @@ Django...
 
 #### Day 30: June 27, 2017 Tuesday
 Lot of figuring out about using python 2.7, 3.6 in what kind of env.  Virtualenv configurations, vagrant configurations, mysql setup in vagrant, and running basic test website in django via vagrant porting.
+
+#### Day 31: June 28, 2017 Wednesday
+Started recipe box for FCC project.  React.js is still extremely painful to write.
+
+#### Day 32: June 30, 2017 Friday
+Skipped a day to focus on self-analysis and development.  Learned and worked on Typescript today.
