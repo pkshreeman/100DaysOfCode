@@ -110,3 +110,6 @@ Started recipe box for FCC project.  React.js is still extremely painful to writ
 
 #### Day 32: June 30, 2017 Friday
 Skipped a day to focus on self-analysis and development.  Learned and worked on Typescript today.
+
+#### Day 33: July 1, 2017 Saturday
+Worked on Swift in Xcode using tutorials.  Had to start over from stratch since there was some type of errors that can't be resolved.  it is working now...sigh...
