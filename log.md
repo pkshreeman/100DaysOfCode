@@ -113,3 +113,6 @@ Skipped a day to focus on self-analysis and development.  Learned and worked on 
 
 #### Day 33: July 1, 2017 Saturday
 Worked on Swift in Xcode using tutorials.  Had to start over from stratch since there was some type of errors that can't be resolved.  it is working now...sigh...
+
+#### Day 34: July 3, 2017 Monday
+Yes, Skipped a day again.  It is getting hard to be consistent since I do not have an ongoing steady project.  I have tons of things I want to learn but it spreads me out thin. I did some work on FCC's recipe program using react/sass.
