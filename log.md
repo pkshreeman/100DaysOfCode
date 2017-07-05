@@ -116,3 +116,7 @@ Worked on Swift in Xcode using tutorials.  Had to start over from stratch since 
 
 #### Day 34: July 3, 2017 Monday
 Yes, Skipped a day again.  It is getting hard to be consistent since I do not have an ongoing steady project.  I have tons of things I want to learn but it spreads me out thin. I did some work on FCC's recipe program using react/sass.
+
+#### Day 35:  July 4, 2017 Tuesday
+Seems I am having tough time staying consistent with the programming.  Need to pick one project and stay with it.  I think I have too many projects, and spreading myself out too thin.  Suspending FCC Recipe project as I need to work on 'real' projects as actual deployment of django website, developing actual application for iOS.  Seems that is more 'important', than struggling with details of react project (as how to use local storage in JSON format and successfully list it out in a human readable format.)  For today, I am focusing on swift/iOS development toward augmented reality.
+
