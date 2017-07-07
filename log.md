@@ -123,3 +123,7 @@ Seems I am having tough time staying consistent with the programming.  Need to p
 #### Day 36: July 5, 2017 Wednesday
 
 Working on React project.  Why is JSON such a pain to use?  I have used JSON many times, and it is still major headache to handle it.  I must be weak in javascript if I always have this problem! 
+
+#### Day 37: July 6, 2017 Thursday
+
+Worked all day on learning how to deploy Django to Heroku.  Finally figured out the localhost vs deployed issue in relation to using postgreSQL, and updated the code, and created a [pull](https://github.com/heroku/python-getting-started/pull/32)
