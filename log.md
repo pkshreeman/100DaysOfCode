@@ -127,3 +127,8 @@ Working on React project.  Why is JSON such a pain to use?  I have used JSON man
 #### Day 37: July 6, 2017 Thursday
 
 Worked all day on learning how to deploy Django to Heroku.  Finally figured out the localhost vs deployed issue in relation to using postgreSQL, and updated the code, and created a [pull](https://github.com/heroku/python-getting-started/pull/32)
+
+#### Day 38: July 7, 2017 Friday
+
+Implemented Workout App.  Phase 1 :D
+
