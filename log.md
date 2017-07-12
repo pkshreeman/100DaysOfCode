@@ -132,3 +132,16 @@ Worked all day on learning how to deploy Django to Heroku.  Finally figured out 
 
 Implemented Workout App.  Phase 1 :D
 
+#### Day 39: July 8, 2017 Saturday
+
+Phase 1....and not 2 :( 
+
+#### Day 40: July 9 2017 Sunday
+I dropped a table in Django...big mistake.  Now removed entire folder to start over,  learning firsthand how useful venv and install pip -r requirements.txt can be now...
+
+#### Day 41: July 10, 2017 Monday
+Working on Workout App Django-Heroku implementation.  DB issues being worked on with the rest of project from ground zero...
+
+#### Day 42: July 11, 2017 Tuesday
+Went over to Django's 1.11 tutorial to figure out the POST-Database relationship and started working from the tutorial.
+
