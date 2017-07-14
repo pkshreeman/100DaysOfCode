@@ -145,3 +145,5 @@ Working on Workout App Django-Heroku implementation.  DB issues being worked on 
 #### Day 42: July 11, 2017 Tuesday
 Went over to Django's 1.11 tutorial to figure out the POST-Database relationship and started working from the tutorial.
 
+#### Day 43: July 13, 2017 Thursday
+Finally successfuly setup the database using POST data.
