@@ -147,3 +147,6 @@ Went over to Django's 1.11 tutorial to figure out the POST-Database relationship
 
 #### Day 43: July 13, 2017 Thursday
 Finally successfuly setup the database using POST data.
+
+#### Day 44: July 14, 2017 Friday
+Learning more about UI for phone vs computer...and fixed database for missing reps.
