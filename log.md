@@ -150,3 +150,12 @@ Finally successfuly setup the database using POST data.
 
 #### Day 44: July 14, 2017 Friday
 Learning more about UI for phone vs computer...and fixed database for missing reps.
+
+#### Day 45: July 15, 2017 Saturday
+As I work to transform the django workout app to be userfriendly, native select options are out, and figuring out ways to make it easy to select by using buttons instead.  It was interesting to see how different the setup is.
+
+#### Day 46: July 19, 2017 Wednesday
+It has been rough last few days.  I did inquire on stackoverflow in regards how to resolve the difference with click event.  It seems like radio buttons does not function exactly same as 'normal' buttons does.  Thinking about redesigning the site to be more app-like.
+
+#### Day 47: July 20, 2017 Thursday
+Implmeneting a new way of interactivity with javascript.  Possible to transfer to python, but uncertain if it is possible at this point.
